@@ -7,7 +7,7 @@
 # "SVIP":"svip-kt.v2cloud.xyz",
 # "HKT1":"hk-hkt.v2cloud.xyz"}
 # 测速
-# alias vpn='python3 /Users/joey/PycharmProjects/vpn/vpn-speed.py [user_name] [password]'
+# alias vpn='python3 /Users/joey/PycharmProjects/vpn/v2ray_ping.py [user_name] [password]'
 import requests
 import json
 import os
