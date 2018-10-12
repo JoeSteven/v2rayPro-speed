@@ -1,0 +1,4 @@
+venv/
+.idea
+vpn.json
+vpn_list.json
